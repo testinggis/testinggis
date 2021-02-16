@@ -1,0 +1,113 @@
+[{
+        "name": "Global Shoreline Dataset",
+        "sample_code": "https://code.earthengine.google.com/609a16955ed07b282fcd4bff4750f814",
+        "fileType": "Table",
+        "id": ["projects/sat-io/open-datasets/shoreline/mainlands"],
+        "provider": ["United States Geological Survey", "USGS"],
+        "keywords": ["Global Shoreline", "Shoreline", "Oceans"]
+    },
+    {
+        "name": "Global Shoreline Dataset",
+        "sample_code": "https://code.earthengine.google.com/609a16955ed07b282fcd4bff4750f814",
+        "fileType": "Table",
+        "id": ["projects/sat-io/open-datasets/shoreline/big_islands"],
+        "provider": ["United States Geological Survey", "USGS"],
+        "keywords": ["Global Shoreline", "Shoreline", "Oceans"]
+    },
+    {
+        "name": "Global Shoreline Dataset Small Islands",
+        "sample_code": "https://code.earthengine.google.com/609a16955ed07b282fcd4bff4750f814",
+        "fileType": "Table",
+        "id": ["projects/sat-io/open-datasets/shoreline/small_islands"],
+        "provider": ["United States Geological Survey", "USGS"],
+        "keywords": ["Global Shoreline", "Shoreline", "Oceans"]
+    },
+    {
+        "name": "OSM Water Layer Surface Waters",
+        "sample_code": "https://code.earthengine.google.com/cab4e587c9fa6d86e9d848432efe874b",
+        "fileType": "GeoTIFF",
+        "id": ["projects/sat-io/open-datasets/shoreline/small_islands"],
+        "provider": ["Institute of Industrial Sciences", "Open Street Map", "OSM"],
+        "keywords": ["Global water layer", "Open Street Map", "OSM", "Surface Water"]
+    },
+    {
+        "name": "Global 30m Height Above the Nearest Drainage with Number of River head threshold cells 100",
+        "sample_code": "https://code.earthengine.google.com/ed75ecef7fcf94897b74ac56bfbb3f43",
+        "fileType": "GeoTIFF",
+        "id": ["users/gena/global-hand/hand-100"],
+        "provider": ["Gennaddi Donchyts", "Deltares"],
+        "keywords": ["Global Hand", "Hydrology", "drainage"]
+    },
+    {
+        "name": "Global 30m Height Above the Nearest Drainage with Number of River head threshold cells 1000",
+        "sample_code": "https://code.earthengine.google.com/ed75ecef7fcf94897b74ac56bfbb3f43",
+        "fileType": "GeoTIFF",
+        "id": ["users/gena/GlobalHAND/30m/hand-1000"],
+        "provider": ["Gennaddi Donchyts", "Deltares"],
+        "keywords": ["Global Hand", "Hydrology", "drainage"]
+    },
+    {
+        "name": "Global 90m Height Above the Nearest Drainage with Number of River head threshold cells 1000",
+        "sample_code": "https://code.earthengine.google.com/ed75ecef7fcf94897b74ac56bfbb3f43",
+        "fileType": "GeoTIFF",
+        "id": ["users/gena/GlobalHAND/90m-global/hand-1000"],
+        "provider": ["Gennaddi Donchyts", "Deltares"],
+        "keywords": ["Global Hand", "Hydrology", "drainage"]
+    },
+    {
+        "name": "Global Mangrove Extent 1996",
+        "sample_code": "https://code.earthengine.google.com/ded574858c353cac4df6652e14f501b2",
+        "fileType": "Table",
+        "id": ["projects/sat-io/open-datasets/GMW/GMW_1996_v2"],
+        "provider": ["Global Mangrove Watch", "Aberystwyth University", "solo Earth Observation", "Wetlands Institute", "International Water Management Institute", "UN Environment World Conservation Monitoring Center"],
+        "keywords": ["Global", "Mangrove", "GMW"]
+    },
+    {
+        "name": "Global Mangrove Extent 2007",
+        "sample_code": "https://code.earthengine.google.com/ded574858c353cac4df6652e14f501b2",
+        "fileType": "Table",
+        "id": ["projects/sat-io/open-datasets/GMW/GMW_2007_v2"],
+        "provider": ["Global Mangrove Watch", "Aberystwyth University", "solo Earth Observation", "Wetlands Institute", "International Water Management Institute", "UN Environment World Conservation Monitoring Center"],
+        "keywords": ["Global", "Mangrove", "GMW"]
+    },
+    {
+        "name": "Global Mangrove Extent 2008",
+        "sample_code": "https://code.earthengine.google.com/ded574858c353cac4df6652e14f501b2",
+        "fileType": "Table",
+        "id": ["projects/sat-io/open-datasets/GMW/GMW_2008_v2"],
+        "provider": ["Global Mangrove Watch", "Aberystwyth University", "solo Earth Observation", "Wetlands Institute", "International Water Management Institute", "UN Environment World Conservation Monitoring Center"],
+        "keywords": ["Global", "Mangrove", "GMW"]
+    },
+    {
+        "name": "Global Mangrove Extent 2009",
+        "sample_code": "https://code.earthengine.google.com/ded574858c353cac4df6652e14f501b2",
+        "fileType": "Table",
+        "id": ["projects/sat-io/open-datasets/GMW/GMW_2009_v2"],
+        "provider": ["Global Mangrove Watch", "Aberystwyth University", "solo Earth Observation", "Wetlands Institute", "International Water Management Institute", "UN Environment World Conservation Monitoring Center"],
+        "keywords": ["Global", "Mangrove", "GMW"]
+    },
+    {
+        "name": "Global Mangrove Extent 2010",
+        "sample_code": "https://code.earthengine.google.com/ded574858c353cac4df6652e14f501b2",
+        "fileType": "Table",
+        "id": ["projects/sat-io/open-datasets/GMW/GMW_2010_v2"],
+        "provider": ["Global Mangrove Watch", "Aberystwyth University", "solo Earth Observation", "Wetlands Institute", "International Water Management Institute", "UN Environment World Conservation Monitoring Center"],
+        "keywords": ["Global", "Mangrove", "GMW"]
+    },
+    {
+        "name": "Global Mangrove Extent 2015",
+        "sample_code": "https://code.earthengine.google.com/ded574858c353cac4df6652e14f501b2",
+        "fileType": "Table",
+        "id": ["projects/sat-io/open-datasets/GMW/GMW_2015_v2"],
+        "provider": ["Global Mangrove Watch", "Aberystwyth University", "solo Earth Observation", "Wetlands Institute", "International Water Management Institute", "UN Environment World Conservation Monitoring Center"],
+        "keywords": ["Global", "Mangrove", "GMW"]
+    },
+    {
+        "name": "Global Mangrove Extent 2016",
+        "sample_code": "https://code.earthengine.google.com/ded574858c353cac4df6652e14f501b2",
+        "fileType": "Table",
+        "id": ["projects/sat-io/open-datasets/GMW/GMW_2016_v2"],
+        "provider": ["Global Mangrove Watch", "Aberystwyth University", "solo Earth Observation", "Wetlands Institute", "International Water Management Institute", "UN Environment World Conservation Monitoring Center"],
+        "keywords": ["Global", "Mangrove", "GMW"]
+    }
+]
