@@ -1,4 +1,5 @@
 ### Hi there 👋
+![Twitter URL](https://img.shields.io/twitter/follow/samapriyaroy?style=social)
 
 <!--
 **testinggis/testinggis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
