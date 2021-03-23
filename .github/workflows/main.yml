@@ -26,4 +26,4 @@ jobs:
           filename: community.json
           label: Community Datasets
           message: ${{ env.CODE_LINES }}
-          color: lightgrey
+          color: orange
