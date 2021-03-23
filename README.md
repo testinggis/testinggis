@@ -1,6 +1,6 @@
 ### Hi there 👋
 [![Twitter URL](https://img.shields.io/twitter/follow/samapriyaroy?style=social)](https://twitter.com/intent/follow?screen_name=samapriyaroy)
-
+![loc](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/testinggis/c346f59f1bc7db6bb272215e8c8ffaa8/raw/community.json)
 <!--
 **testinggis/testinggis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
